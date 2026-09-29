@@ -1,0 +1,7 @@
+transformers<5
+langchain_groq
+langchain-core
+torch
+Pillow
+flask
+flask-cors 
